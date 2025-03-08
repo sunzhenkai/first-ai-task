@@ -1,3 +1,27 @@
+# Tool Website
+
+## Project Description 项目描述
+
+This is a web-based tool that provides various utilities and features for developers. The tool is built using React and includes the following key features:
+
+这是一个基于Web的工具，为开发者提供各种实用功能和特性。该工具使用React构建，包含以下主要功能：
+
+- **Feature 1**: Description of feature 1
+- **Feature 2**: Description of feature 2  
+- **Feature 3**: Description of feature 3
+
+## Usage Instructions 使用说明
+
+### English
+1. Start the development server: `npm start`
+2. Run tests: `npm test`
+3. Build for production: `npm run build`
+
+### 中文
+1. 启动开发服务器: `npm start`
+2. 运行测试: `npm test` 
+3. 构建生产版本: `npm run build`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
